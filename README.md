@@ -23,3 +23,5 @@ Based on Felucca by Leo Kuroshita / Hügelton Instruments and SLOOP; upstream co
 [MYCELIUM home](https://www.mandalars.org/mandalars/) · [Firmware page](https://www.mandalars.org/mandalars/fm1/) · [FM-1 Hub](https://fm1.designburgapps.com/)
 
 The browser studio uses a different sound engine from the hardware firmware.
+
+You can also try Mycelium in the browser, no flashing needed, in the free community [FM-1 Emulator](https://fm1-emulator.atst.tools/).
